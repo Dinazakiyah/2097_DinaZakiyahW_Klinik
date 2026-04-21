@@ -1,4 +1,4 @@
-# 🏥 Klinik Sederhana API
+# 🏥 Klinik 
 
 REST API manajemen klinik sederhana yang mencakup data **Pasien**, **Dokter**, dan **Jadwal Konsultasi**.  
 Dibuat sebagai pemenuhan tugas LKM 1 – Penerapan API (Pemrograman Antarmuka Aplikasi).
