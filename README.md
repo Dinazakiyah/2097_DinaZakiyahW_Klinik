@@ -46,7 +46,7 @@ KlinikApi/
 
 ```bash
 # Clone (jika dari GitHub)
-git clone https://github.com/username/KlinikApi.git
+git clone (https://github.com/Dinazakiyah/2097_DinaZakiyahW_Klinik.git)
 cd KlinikApi
 ```
 
