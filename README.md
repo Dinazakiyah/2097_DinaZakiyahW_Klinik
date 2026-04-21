@@ -191,7 +191,7 @@ psql -U postgres -d klinik_db -f database.sql
 
 ## 🎥 Video Presentasi
 
-> 📺 Link Video: [YouTube – *(link ditambahkan setelah upload)*]
+> 📺 Link Video: (https://youtu.be/luZmhGQtB5I)
 
 ---
 
